@@ -1,0 +1,7 @@
+# Redirect to the japanese content
+/ja/* https://kyushoku.org/ja/:splat 301!
+/ja-simple/* https://kyushoku.org/ja-simple/:splat 301!
+
+# Redirect to kyushoku/en
+/*  https://kyushoku2050.org/en/:splat 301!
+
